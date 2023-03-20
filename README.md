@@ -1,0 +1,2 @@
+# Bot
+Auto betting bot
